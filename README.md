@@ -9,7 +9,7 @@ This application is a tool that automates the workflow of signing .ipa, .p12, an
 1. Clone the project:
 
     ```bash
-    git clone https://github.com/your_username/IPA_Certificate_Signer.git
+    git clone https://github.com/gkhantyln/IPA_Certificate_Signer.git
     ```
 
 2. Install the required Python libraries:
@@ -30,10 +30,6 @@ This application is a tool that automates the workflow of signing .ipa, .p12, an
 3. Enter the password.
 4. Click the "Sign" button to start the process.
 
-## Screenshots
-
-[Add screenshots]
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -51,7 +47,7 @@ Bu uygulama, iOS uygulamaları için .ipa, .p12 ve .mobileprovision dosyaların�
 1. Projeyi klonlayın:
 
     ```bash
-    git clone https://github.com/your_username/IPA_Certificate_Signer.git
+    git clone https://github.com/gkhantyln/IPA_Certificate_Signer.git
     ```
 
 2. Gerekli Python kütüphanelerini yükleyin:
@@ -71,10 +67,6 @@ Bu uygulama, iOS uygulamaları için .ipa, .p12 ve .mobileprovision dosyaların�
 2. IPA, P12 ve Mobileprovision dosyalarını ilgili alanlara ekleyin veya "Dosyaları Otomatik Seç" seçeneğini işaretleyin.
 3. Şifreyi girin.
 4. "Sign" düğmesine tıklayarak işlemi başlatın.
-
-## Ekran Görüntüleri
-
-[Ekran görüntüsü ekleyin]
 
 ## Lisans
 
